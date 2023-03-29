@@ -1,4 +1,17 @@
-git init - follow the version of the folder
 git log - log out the versions
 git checkout - get a previous version
 git switch - undo the version change with checkout command
+
+git status - show the actual status of the items
+git init - follow the version of the folder
+git add . - add all file for the next snapshoot 
+git commit -m "" - add message to the version
+
+--- only ---
+
+git remote - check repo in GitHub
+git remote add "origin" url
+git push - upload the new version to GitHub, hint! first error (git push --set upstream origin master)
+
+
+

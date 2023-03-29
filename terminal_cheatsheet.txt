@@ -1,3 +1,5 @@
 cd - change directory  cd .. step back one folder
-cd my folder - jump to this folder - hint! use TAB 
+cd my_folder - jump to this folder - hint! use TAB 
 mkdir - make directory - add new folders name after it
+ni - new item, create new item, ni + name of the item
+ls - list the items in the folder, ls -Force list of hiden elements
