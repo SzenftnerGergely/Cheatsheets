@@ -1,2 +1,3 @@
 cd - change directory  cd .. step back one folder
 cd my folder - jump to this folder - hint! use TAB 
+mkdir - make directory
