@@ -1,3 +1,4 @@
 git init - follow the version of the folder
-git log 
-git checkout
+git log - log out the versions
+git checkout - get a previous version
+git switch - undo the version change with checkout command
