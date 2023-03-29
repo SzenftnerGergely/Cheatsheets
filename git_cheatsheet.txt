@@ -1,1 +1,3 @@
 git init - follow the version of the folder
+git log 
+git checkout
